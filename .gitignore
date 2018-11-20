@@ -1,0 +1,9 @@
+#Folder
+.settings/
+Debug/
+Release/
+
+#Launching and debug configuration
+*.cfg
+*.launch
+*.run
